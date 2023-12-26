@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Lord of the rings",
+      "author": "J. R. R. Tolkien",
+      "image": "https://images.unsplash.com/photo-1562407680-948253e074d0?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi dolorem inventore, minima, blanditiis similique rem incidunt modi, quibusdam magni accusamus repellat officia necessitatibus minus dolorum ut dolore. Adipisci, sed incidunt, quo ea deserunt ipsam natus fugit, nemo quaerat culpa architecto!"
+    },
+    {
+      "name": "Harry Potter",
+      "author": "J.K. Rowling",
+      "image": "https://images.unsplash.com/photo-1626618012641-bfbca5a31239?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi dolorem inventore, minima, blanditiis similique rem incidunt modi, quibusdam magni accusamus repellat officia necessitatibus minus dolorum ut dolore. Adipisci, sed incidunt, quo ea deserunt ipsam natus fugit, nemo quaerat culpa architecto!"
+    },
+    {
+      "name": "Lucky Luke",
+      "author": "Morris ",
+      "image": "https://images.unsplash.com/photo-1626513507309-d67e162e0658?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi dolorem inventore, minima, blanditiis similique rem incidunt modi, quibusdam magni accusamus repellat officia necessitatibus minus dolorum ut dolore. Adipisci, sed incidunt, quo ea deserunt ipsam natus fugit, nemo quaerat culpa architecto!"
+    }
+  ]
